@@ -1,6 +1,6 @@
 # Hospital Discharge Metrics Analysis
 
-Analyzing NHS hospital discharge metrics to understand patterns, delays, and system performance.
+Analyzing NHS Kent and Medway Integrated Care Board (ICB) discharge metrics to understand patterns, delays, and system performance.
 
 ## Project Overview
 

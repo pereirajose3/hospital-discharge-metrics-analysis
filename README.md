@@ -20,7 +20,7 @@ A deeper understanding of these metrics aims to inform hospital capacity plannin
 - Identify potential pressure points and service demand  
 - Support data-driven decision-making for NHS operational management
 
-## 🛠Tools & Data Sources
+## Tools & Data Sources
 
 - **Language:** Python (pandas, numpy, matplotlib, seaborn, plotly, statsmodels)
 - **Data Sources:** NHS England hospital discharge datasets, Trust-level summaries, ONS demographic context

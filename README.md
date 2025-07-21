@@ -15,16 +15,15 @@ A deeper understanding of these metrics aims to inform hospital capacity plannin
 
 ## Objectives
 
-- Analyze historical discharge metrics (e.g., daily discharges, delayed discharges)  
-- Visualize trends at national and sub-national levels  
+- Analyze historical discharge metrics (monthly discharges, delayed discharges Reasons)  
+- Visualize trends at ICB and Trust levels  
 - Identify potential pressure points and service demand  
 - Support data-driven decision-making for NHS operational management
 
 ## Tools & Data Sources
 
-- **Language:** Python (pandas, numpy, matplotlib, seaborn, plotly, statsmodels)
-- **Data Sources:** NHS England hospital discharge datasets, Trust-level summaries, ONS demographic context
-- **Notebooks:** Written in Jupyter, covering data ingestion, cleaning, analysis, and visualization
+- **Language:** Python (pandas, numpy, matplotlib, seaborn) and SQL
+- **Data Sources:** NHS England Hospital Discharge Situation Reports
+- **Notebooks:**  Jupyter Notebooks covering extraction, transform, load (ETL), data collection, cleaning, and analysis.
 
-## Repository Structure
 

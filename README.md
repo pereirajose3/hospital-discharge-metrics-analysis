@@ -1,12 +1,12 @@
 # Hospital Discharge Metrics Analysis
 
-Analyzing NHS Kent and Medway Integrated Care Board (ICB) discharge metrics to understand patterns, delays, and system performance.
+Analyzing NHS Norfolk and Waveney Integrated Care Board (ICB) discharge metrics to understand patterns in delays, and system performance.
 
 ## Project Overview
 
-This project investigates discharge-related metrics in NHS hospitals across England. It focuses on:
+This project investigates discharge-related metrics in NHS Trusts across England. It focuses on:
 
-- Number and trends of daily hospital discharges  
+- Number and trends of daily Trust discharges  
 - Identification of delayed discharges and bottlenecks  
 - Exploration of metrics like average LOS (Length of Stay), discharge rates, and readmission rates  
 - Comparison across trusts, regions, and over time

@@ -1,4 +1,4 @@
-# Understanding Delayed Discharges and Bed Occupancy Pressures at James Paget University Hospitals NHS Foundation Trust 
+# Understanding Delayed Discharges and Bed Occupancy Pressures at James Paget University Hospitals NHS Foundation Trust  
 ## 1. Executive Summary 
 James Paget University Hospitals NHS Foundation Trust (hereafter referred to as ‘James Paget’) has experienced pressures in delayed discharges. This report analyses these trends and their implications for healthcare and social care services. It aims to guide ICB teams and stakeholders in strategic planning, highlighting the necessity of adapting healthcare services and policies in response to increases in delayed discharges. The analysis uses NHS England delayed discharges data (September 2023–April 2025) and bed availability and occupancy data (January 2011–June 2024). 
 
